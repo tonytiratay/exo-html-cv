@@ -41,11 +41,11 @@ Vous trouverez le détail des informations de style détaillées en fin d'exeric
 
 Cette section est la première, tout en haut du site. Elle contient un gros titre (h1) "CV HTML" ainsi qu'une image (fournie) en fond. Utilisez l'image cv-bg-3.jpg
 
-### formation
+### Formation
 
 Deuxième section du site, elle contient un h1 affichant "Formation". L'image de fond de cette section est cv-bg-1.jpg.
 
-### travaux
+### Travaux
 
 Troisème section, qui ne contient elle aussi qu'un titre h1 affichant "Travaux". L'image de fond est cv-bg-4.jpg.
 
