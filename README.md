@@ -8,6 +8,10 @@
 
  Vous pouvez télécharger l'ensemble de ce dossier qui contient déjà les différents éléments que vous aurez à utiliser (notamment les images.)
 
+ Dans le dossier 'Dossier de travail' vous trouverez les fichiers du site (page html, css, et les images).
+
+ Dans le dossier 'Exercice', vous trouverez des captures d'écran du résultat attendu.
+
 ## Détails
 
 Le site devra être "one page", c'est à dire que toutes les sections sont sur une seule et même page. Au total, il y a 4 sections différentes.
