@@ -90,7 +90,7 @@ Arrondi bordure: 9px
 ```
 ### Sections
 
-** Toutes les sections**
+**Toutes les sections**
 
 Toutes les sections ont des propriétés communes. Les seules choses qui changent entre elles sont le contenu du titre, et l'image de fond. Voici les caractéristiques communes :
 
